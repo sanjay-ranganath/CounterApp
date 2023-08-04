@@ -22,7 +22,7 @@ function App() {
           Type : Muscle
         </div>
         <div className="my-3">
-          Year of Manufacture : 1999
+          Year of Manufacture : 2000
         </div>
       </div>
     </div>
